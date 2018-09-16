@@ -43,7 +43,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
 ## Exercices/Homework 
 
-Jhipster and GPLs/DSLs: http://tinyurl.com/jhipster-langs1718 (collaborative list of all languages used in Jhipster) 
+Jhipster and GPLs/DSLs: http://tinyurl.com/jhipster-langs1819 (collaborative list of all languages used in Jhipster) 
 
 Project: VideoGen (incl. 4 lab sessions)
 
