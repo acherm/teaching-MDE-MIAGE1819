@@ -13,7 +13,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 ## Agenda 
 
 * introduction to model-driven software development 
-* domain-specific languages (DSL) -- DSLs.pdf
+* domain-specific languages (DSL) -- DSL.pdf
 * external DSLs and Xtext -- DSLAndXtext.pdf
 * metamodeling and EMF -- ModelManagementXtend1.pdf 
 * model transformation-- ModelManagementXtend1.pdf 
