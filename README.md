@@ -7,12 +7,12 @@ At the end, students can elaborate metamodels, develop specialized tools, create
 They are also able to understand and recognize classes of software systems, engineering scenarios, or contemporary frameworks for which the MDE concepts apply. 
 In a sense, students are ready to apply state-of-the-art techniques for engineering software -- now and in the upcoming years!
 
-Tools and languages like Xtext, Xtend, EMF, K3, FAMILIAR are used to make it practical. 
-We illustrate the course with a running project, VideoGen, a configurable generator of generators of video variants.  
+Tools and languages like Xtext, Xtend, EMF, FAMILIAR are used to make it practical. 
+We illustrate the course with a running project, VideoGen, a *configurable generator of generators of video variants*.  
 
 ## Agenda 
 
-* introduction to model-driven software development 
+* introduction to model-driven software development -- MDLE.pdf 
 * domain-specific languages (DSL) -- DSL.pdf
 * external DSLs and Xtext -- DSLAndXtext.pdf
 * metamodeling and EMF -- ModelManagementXtend1.pdf 
