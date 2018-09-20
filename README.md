@@ -34,7 +34,7 @@ We illustrate the course with a running project, VideoGen, a *configurable gener
    * TD1: https://docs.google.com/document/d/12WgEgLx8gfokdLC2iNmQpB3lIMN9lIRzwZlodgAil3w/edit?usp=sharing
    * TD2: cf ExamIDM16.pdf (a typical exam)
 * 6 TPs
-  * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1nJ50z8kYihbsp3iWazlp6ulpOPmMKnnMmHQM1ZqB1yg/edit?usp=sharing 
+  * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1EvY8nVgnw7YwXNln6XhvOnBn46sGpVFrr6xMustssAs/edit?usp=sharing
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/1_nFb-jv2ZnIaNw4c59McxXve8ahcZw5CKjcWYaSswkM/edit?usp=sharing
   * TP3: Model transformation, data analysis https://docs.google.com/document/d/1OETjPKA7_bOuGKKt19Wc_fN4l7MWM0NUm8ra2N72oNM/edit?usp=sharing
   * TP4: test, refactoring, and continuing https://docs.google.com/document/d/1VnuDxgmJpkxeYBddPbOR4L0XIPxgsdtdWCK0jKZMqYc/edit?usp=sharing
