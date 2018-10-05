@@ -20,69 +20,12 @@ public class VideoGenTestJava1 {
 	public void testInJava1() {
 		
 		VideoGeneratorModel videoGen = new VideoGenHelper().loadVideoGenerator(URI.createURI("example1.videogen"));
-		assertNotNull(videoGen);
-		
+		assertNotNull(videoGen);		
 		System.out.println(videoGen.getInformation().getAuthorName());		
-		// and then visit the model
-		// eg access video sequences: 
-		EList<Media> medias = videoGen.getMedias();
-		
-		List<List<String>> allConfs = new ArrayList<List<String>>();
-		for (Media media : medias) {
-			// 
-			if (media instanceof VideoSeq) {				
-				VideoSeq video = (VideoSeq) media;				
-					
-					if (video instanceof MandatoryVideoSeq) {
-						System.out.println("mandatory " + video);
-						String id = ((MandatoryVideoSeq)video).getDescription().getVideoid();
-						allConfs = addVideoIdToAllConfigurations(id, allConfs);
-					}	
-					/*
-					if (video instanceof OptionalVideoSeq) {
-						for (List<String> partialConf : allConfs) {
-							List<String> nPartialConf = new ArrayList<String>();
-							nPartialConf.addAll(partialConf);
-							nPartialConf.add(((OptionalVideoSeq)video).getDescription().getVideoid()); 
-							allConfs.add(nPartialConf);	
-						}
-					}
-					if (video instanceof AlternativeVideoSeq) {
-						for (List<String> partialConf : allConfs) {
-							 AlternativeVideoSeq alt = (AlternativeVideoSeq) video;
-							for (VideoDescription desc : alt.getVideodescs()) {
-								List<String> nPartialConf = new ArrayList<String>();
-								nPartialConf.addAll(partialConf);
-								nPartialConf.add(desc.getVideoid()); 
-								allConfs.add(nPartialConf);							
-							}
-						}
-					}*/
-				
-			}
-			
-			
-		}
-		System.out.println("allConfs:" + allConfs);
-		assertEquals(4, allConfs.size());
+		assertEquals(4, videoGen.getMedias().size());	
 		
 	}
 
-	private List<List<String>> addVideoIdToAllConfigurations(String id, List<List<String>> allConfs) {
-		
-		if (allConfs.isEmpty()) {
-			List<String> nPartialConf = new ArrayList<String>();
-			nPartialConf.add(id);
-			allConfs.add(nPartialConf);
-		}
-		else {	
-			System.out.println("" + allConfs);
-			for (List<String> partialConf : allConfs) {
-				partialConf.add(id); 
-			}	
-		}
-		List<List<String>> nAllConfs = new ArrayList<List<String>>(allConfs);
-		return  nAllConfs;
-	}
+	
 
 }
