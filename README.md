@@ -36,7 +36,7 @@ We illustrate the course with a running project, VideoGen, a *configurable gener
 * 6 TPs
   * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1EvY8nVgnw7YwXNln6XhvOnBn46sGpVFrr6xMustssAs/edit?usp=sharing
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/1cYbPolJo03fYydBrJrgVuuJdWmnK_IhFtswIk9g0jeI/edit?usp=sharing
-  * TP3: Model transformation, data analysis https://docs.google.com/document/d/1OETjPKA7_bOuGKKt19Wc_fN4l7MWM0NUm8ra2N72oNM/edit?usp=sharing
+  * TP3: Model transformation, data analysis https://docs.google.com/document/d/1nR18Q556t43npOeysZsXWGiRwTaXu1i_Juya030jx-g/edit?usp=sharing
   * TP4: test, refactoring, and continuing https://docs.google.com/document/d/1VnuDxgmJpkxeYBddPbOR4L0XIPxgsdtdWCK0jKZMqYc/edit?usp=sharing
   * TP5/TP6/projet: TP* (putting all together) https://docs.google.com/document/d/1VtFK0tDDLfxOmYktWliVA7M0WFXDv3mxreeghdub9cA/edit?usp=sharing
 
