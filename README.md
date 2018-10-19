@@ -19,7 +19,7 @@ We illustrate the course with a running project, VideoGen, a *configurable gener
 * model transformation-- ModelManagementXtend1.pdf 
 * meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
 * Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagementXtend2.pdf
-* software product lines, variability modeling, and configuration: some cases (VaryLaTeX, JHipster testing) -- SPLVariability-misc.pdf
+* software product lines, variability modeling, and configuration: some cases (VaryLaTeX, JHipster testing) -- SPLVariability.pdf
   * JHipster: https://github.com/FAMILIAR-project/HackOurLanguages-SIF/blob/master/slides/SamplingJHipsterCaseStudy.pdf 
   * VaryLaTeX: https://hal.inria.fr/hal-01659161/
 
@@ -51,7 +51,7 @@ Project: VideoGen (incl. 4 lab sessions)
 
 Eclipse/Xtext: https://eclipse.org/downloads/eclipse-packages/ (Eclipse IDE for Java and DSL Developers)
 
-* see "slides" folder of this repo (the updloads of slides will follow the progress of the courses)
+* see "slides" folder of this repo (the uploads of slides will follow the progress of the courses)
 * Resources used for the IDM course in 2016-217: https://github.com/acherm/teaching-MDE1617
 * JOOQ and SQL: https://github.com/acherm/teaching-MDE1617/wiki/JOOQ-homework
 * http://www.mathieuacher.com/teaching/MDE/ (content of previous years)
