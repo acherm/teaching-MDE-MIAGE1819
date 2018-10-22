@@ -20,8 +20,9 @@ We illustrate the course with a running project, VideoGen, a *configurable gener
 * meta-programming, annotations, advanced compositions -- ModelManagementXtend2.pdf 
 * Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagementXtend2.pdf
 * software product lines, variability modeling, and configuration: some cases (VaryLaTeX, JHipster testing) -- SPLVariability.pdf
-  * JHipster: https://github.com/FAMILIAR-project/HackOurLanguages-SIF/blob/master/slides/SamplingJHipsterCaseStudy.pdf 
-  * VaryLaTeX: https://hal.inria.fr/hal-01659161/
+  * more slides (bonus)
+   * JHipster: https://github.com/FAMILIAR-project/HackOurLanguages-SIF/blob/master/slides/SamplingJHipsterCaseStudy.pdf 
+   * VaryLaTeX: https://hal.inria.fr/hal-01659161/
 
 ## Evaluation 
 
@@ -38,7 +39,7 @@ We illustrate the course with a running project, VideoGen, a *configurable gener
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/1cYbPolJo03fYydBrJrgVuuJdWmnK_IhFtswIk9g0jeI/edit?usp=sharing
   * TP3: Model transformation, data analysis https://docs.google.com/document/d/1nR18Q556t43npOeysZsXWGiRwTaXu1i_Juya030jx-g/edit?usp=sharing
   * TP4: test, refactoring, and continuing https://docs.google.com/document/d/16O0Dl0GnP5FlplU373KV7GxtDYY9tQMiARx9Hksn2IQ/edit?usp=sharing
-  * TP5/TP6/projet: TP* (putting all together) https://docs.google.com/document/d/1VtFK0tDDLfxOmYktWliVA7M0WFXDv3mxreeghdub9cA/edit?usp=sharing
+  * TP5/TP6/projet: TP* (putting all together) https://docs.google.com/document/d/18XmmCIn0jba59CUa4Ak6SU7vD7_PwXG3741n9qiNUVk/edit?usp=sharing
 
 
 ## Exercices/Homework 
