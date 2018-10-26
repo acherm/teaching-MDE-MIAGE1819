@@ -33,7 +33,7 @@ We illustrate the course with a running project, VideoGen, a *configurable gener
 
 * 2 TDs 
    * TD1: https://docs.google.com/document/d/1Nriv6F6_jssuzWWPz8WSkXJeiuElNz-Rp5btVtjyRJQ/edit?usp=sharing
-   * TD2: cf ExamIDM16.pdf (a typical exam)
+   * TD2: cf ExamIDM16.pdf (a typical exam) => https://github.com/acherm/teaching-MDE-MIAGE1718/blob/master/ExamIDM16.pdf
 * 6 TPs
   * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1EvY8nVgnw7YwXNln6XhvOnBn46sGpVFrr6xMustssAs/edit?usp=sharing
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/1cYbPolJo03fYydBrJrgVuuJdWmnK_IhFtswIk9g0jeI/edit?usp=sharing
